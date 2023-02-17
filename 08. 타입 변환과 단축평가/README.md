@@ -49,6 +49,7 @@ Boolean(1); // true
 // 'Cat'을 그대로 반환한다
 'Cat' || 'Dog'; // 'Cat'
 ```
+<img src='https://user-images.githubusercontent.com/85178602/219537380-4d2d4430-6cde-418c-93fb-0be3836e72bf.png' width='500px' />
 
 1. 변수가 `null` 또는 `undefined`가 아닌지 확인하고 프로퍼티를 참조할 때
 
