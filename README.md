@@ -10,4 +10,5 @@
 [8. 타입 변환과 단축평가](https://github.com/JY-study/DeepDive/tree/main/08.%20타입%20변환과%20단축평가) <br>
 [9. 객체 리터럴](https://github.com/JY-study/DeepDive/tree/main/09.%20객체%20리터럴) <br>
 [10. 원시 값과 객체의 비교](https://github.com/JY-study/DeepDive/tree/main/10.%20원시%20값과%20객체의%20비교) <br>
-[11-1. 함수 (1)](<https://github.com/JY-study/DeepDive/tree/main/11-1.%20함수%20(1)>)
+[11-1. 함수 (1)](<https://github.com/JY-study/DeepDive/tree/main/11-1.%20함수%20(1)>) <br>
+[11-2. 함수 (2)](<https://github.com/JY-study/DeepDive/tree/main/11-2.%20함수%20(2)>)
