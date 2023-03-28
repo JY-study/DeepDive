@@ -11,4 +11,5 @@
 [9. 객체 리터럴](https://github.com/JY-study/DeepDive/tree/main/09.%20객체%20리터럴) <br>
 [10. 원시 값과 객체의 비교](https://github.com/JY-study/DeepDive/tree/main/10.%20원시%20값과%20객체의%20비교) <br>
 [11-1. 함수 (1)](<https://github.com/JY-study/DeepDive/tree/main/11-1.%20함수%20(1)>) <br>
-[11-2. 함수 (2)](<https://github.com/JY-study/DeepDive/tree/main/11-2.%20함수%20(2)>)
+[11-2. 함수 (2)](<https://github.com/JY-study/DeepDive/tree/main/11-2.%20함수%20(2)>) <br>
+[12. 스코프](https://github.com/JY-study/DeepDive/tree/main/12.%20스코프)
