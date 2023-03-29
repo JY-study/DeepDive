@@ -12,4 +12,5 @@
 [10. 원시 값과 객체의 비교](https://github.com/JY-study/DeepDive/tree/main/10.%20원시%20값과%20객체의%20비교) <br>
 [11-1. 함수 (1)](<https://github.com/JY-study/DeepDive/tree/main/11-1.%20함수%20(1)>) <br>
 [11-2. 함수 (2)](<https://github.com/JY-study/DeepDive/tree/main/11-2.%20함수%20(2)>) <br>
-[12. 스코프](https://github.com/JY-study/DeepDive/tree/main/12.%20스코프)
+[12. 스코프](https://github.com/JY-study/DeepDive/tree/main/12.%20스코프) <br>
+[13. 전역 변수의 문제점](https://github.com/JY-study/DeepDive/tree/main/13.%20전역%20변수의%20문제점)
