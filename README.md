@@ -14,4 +14,5 @@
 [11-2. 함수 (2)](<https://github.com/JY-study/DeepDive/tree/main/11-2.%20함수%20(2)>) <br>
 [12. 스코프](https://github.com/JY-study/DeepDive/tree/main/12.%20스코프) <br>
 [13. 전역 변수의 문제점](https://github.com/JY-study/DeepDive/tree/main/13.%20전역%20변수의%20문제점) <br>
-[14. let, const와 블록 레벨 스코프](https://github.com/JY-study/DeepDive/tree/main/14.%20let,%20const와%20블록%20레벨%20스코프)
+[14. let, const와 블록 레벨 스코프](https://github.com/JY-study/DeepDive/tree/main/14.%20let,%20const와%20블록%20레벨%20스코프) <br>
+[19. strict mode](https://github.com/JY-study/DeepDive/tree/main/19.%20strict%20mode)
