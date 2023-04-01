@@ -24,14 +24,14 @@
 
 **데이터 프로퍼티**: **키와 값**으로 구성된 일반적인 프로퍼티
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/86b0b933-f6d1-4dab-b162-bad8d9ccbe75/Untitled.png)
+<img width='600px' src='https://user-images.githubusercontent.com/85178602/229293135-13fd543b-254c-4c40-a5cd-40e8b1a82972.png' />
 
 **접근자 프로퍼티**: 자체적으로 값을 갖지 않고 다른 데이터 프로퍼티의 값을 읽거나 저장할 때 <br>
-호출되는 **접근자 함수(getter/setter)**로 구성된 프로퍼티
+호출되는 **접근자 함수(getter/setter)** 로 구성된 프로퍼티
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/712436b0-ad90-4252-9e60-d97924b59a83/Untitled.png)
+<img width='600px' src='https://user-images.githubusercontent.com/85178602/229293180-e68ecb5a-676f-455e-a25c-91e24852d2d1.png' />
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/94588453-8ed3-4b2d-9c3b-1672d64ea653/Untitled.png)
+<img width='600px' src='https://user-images.githubusercontent.com/85178602/229293229-60a8c888-e1f4-463d-bd84-1fdc3eb45e2e.png' />
 
 ```js
 const person = {
