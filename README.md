@@ -18,6 +18,7 @@
 [13. 전역 변수의 문제점](https://github.com/JY-study/DeepDive/tree/main/13.%20전역%20변수의%20문제점) <br>
 [14. let, const와 블록 레벨 스코프](https://github.com/JY-study/DeepDive/tree/main/14.%20let,%20const와%20블록%20레벨%20스코프) <br>
 [15. 프로퍼티 어트리뷰트](https://github.com/JY-study/DeepDive/tree/main/15.%20프로퍼티%20어트리뷰트) <br>
+[16. 생성자 함수에 의한 객체 생성](https://github.com/JY-study/DeepDive/tree/main/16.%20생성자%20함수에%20의한%20객체%20생성) <br>
 [19. strict mode](https://github.com/JY-study/DeepDive/tree/main/19.%20strict%20mode)
 
 ## 독서하면서 메모했던 부분
